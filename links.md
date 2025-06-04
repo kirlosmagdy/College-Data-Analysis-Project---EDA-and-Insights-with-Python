@@ -1,0 +1,9 @@
+[employee dashboard](https://app.powerbi.com/view?r=eyJrIjoiM2RiZGIwYmEtMWRhYy00ZDkwLWE0M2QtMTNiZDM0Nzg1MDg5IiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9&pageName=ReportSectione5726463bbb533723265)
+
+
+
+[real estate dashboard](https://app.powerbi.com/view?r=eyJrIjoiNzBmYzMyNGMtNzIyMi00ZDg3LWE2NmUtYjBkMjQwZDBlMGE0IiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9)
+
+
+
+[Market sales](https://app.powerbi.com/view?r=eyJrIjoiZmJjNTk3ZjktZGY2Yy00ZDg3LTg1MWMtNThjNzNkNTFlN2RiIiwidCI6ImVhZjYyNGM4LWEwYzQtNDE5NS04N2QyLTQ0M2U1ZDc1MTZjZCIsImMiOjh9)
